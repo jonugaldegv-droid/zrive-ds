@@ -12,6 +12,9 @@ wheels/
 # DotEnv configuration
 .env
 
+# Data folder
+Data/
+
 # Files
 abandoned_carts.parquet
 inventory.parquet
