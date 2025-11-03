@@ -1,0 +1,3 @@
+INFO:utils:Train from 2020-10-05 00:00:00 until 2021-02-04 00:00:00
+INFO:utils:Val from 2021-02-05 00:00:00 up to 2021-02-22 00:00:00
+INFO:utils:Test up to 2021-03-03 00:00:00
